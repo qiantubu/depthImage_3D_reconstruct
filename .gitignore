@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+uploads/
+
+# Node.js
+node_modules/
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# Vite
+.vite/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Test files
+test_*.py
+test_*.png
+create_test_img.py
